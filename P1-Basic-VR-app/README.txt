@@ -1,0 +1,3 @@
+The folder P1 is my submission of the first project of VR nanodegree. This folder includes the assets and project settings of the Unity game engine required to build this VR app. It also contains some scripts written in C# which deals with all the physics related to this project such as the dropping of cubes from the sky. It contains a folder named "Build" which contains the apk file of the VR app named "First Build" and there's a folder named "Screenshots" in it which contains the screenshots of the running app. 
+I did not face any issue while doing this project as most of the work was done by the Udacity team and also I had prior experience in Unity as I have made games on it.
+Thanks!
